@@ -109,7 +109,43 @@
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":19,
+                 "id":3,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"MS Shell Dlg 2",
+                     "pixelsize":72,
+                     "text":"Hello Anna, Caro, Lisa :)",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":83,
+                 "x":314.187698333286,
+                 "y":428.522813688213
+                }, 
+                {
+                 "height":110.978015380657,
+                 "id":4,
+                 "name":"",
+                 "rotation":270,
+                 "text":
+                    {
+                     "fontfamily":"MS Shell Dlg 2",
+                     "pixelsize":96,
+                     "text":"Hello Anna Caro Lisa",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":884.730838503102,
+                 "x":2.41206152262782,
+                 "y":1008.1620257869
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -117,7 +153,7 @@
          "y":0
         }],
  "nextlayerid":16,
- "nextobjectid":1,
+ "nextobjectid":6,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
@@ -3207,7 +3243,7 @@
         {
          "columns":8,
          "firstgid":577,
-         "image":"moebel.gif",
+         "image":"moebel.png",
          "imageheight":736,
          "imagewidth":256,
          "margin":0,
